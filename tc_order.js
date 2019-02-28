@@ -17,6 +17,7 @@
    
 */
 
+// The lines below create arrays that with various values assigned within. The arrays are placed within variables that are named after the information contained in the arrays. 
 var item = [10582, 23015, 41807, 10041];
 
 var itemDescription = ["1975 Green Bay Packers Football (signed), Item 10582", "Tom Landry 1955 Football Card (unsigned), Item 23015", "1916 Army-Navy Game, Framed Photo (signed), Item 41807", "Protective Card Sheets, Item 10041"];
